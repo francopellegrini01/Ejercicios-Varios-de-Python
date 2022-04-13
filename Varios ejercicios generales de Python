@@ -219,7 +219,6 @@ Output:
 
 
 
-##############  NO LO PUDE SACAR ###############
 
 """
 lado = 4
@@ -334,7 +333,6 @@ print (numero[::-1])
 
 
 
-################ duda para asignar los elementos en comun en una lista #####################
 
 """
 Ejercicio 9
@@ -925,7 +923,7 @@ controlar una consecutividad de numeros del 1, hasta el numero que ingresa por t
 """
 
 """
-from random import * #ver con ari
+from random import * 
 
 milista = [1,2,3,4,5,6]
 
